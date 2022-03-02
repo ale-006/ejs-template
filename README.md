@@ -1,4 +1,4 @@
-# Basic ejs website template
+# Basic __ejs__ website template
 Basic template to create a site with ejs and express.
 
 ## Used modules
